@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ATS-001
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning in editor
+- 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
