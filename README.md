@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATS-001
+- 👋 Hi, I’m Aaron Thalakkottor Sooraj
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning in college
 - 💞️ I’m looking to collaborate on ...
