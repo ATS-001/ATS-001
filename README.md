@@ -67,7 +67,7 @@
   <!-- Dynamic Terminal SVG Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&multiline=true&width=435&lines=Welcome+to+my+Github+Profile;I+am+Aaron" alt="Typing SVG" />
 </p>
-
+<p></p>
 <p align="center">
   <!-- Live Profile Activity & Traffic Graph Tracker -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATS-001&theme=tokyonight&area=true&category=commits" alt="Profile Activity Growth Graph" />
