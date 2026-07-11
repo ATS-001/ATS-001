@@ -16,7 +16,7 @@
  ▀         ▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀ 
 </pre>
     </td>
-    <!-- Right Column: Human Appending Terminal Shell -->
+    <!-- Right Column: True Sequential Boot-Up Terminal Shell -->
     <td valign="top" style="padding-left: 25px; min-width: 460px;">
 <pre>
 <b>aaron</b>@<b>VAST-BTech</b>
@@ -26,11 +26,11 @@
 <b>Course</b>: BTech Computer Science & Engineering
 
 <b>[ System Stack Modules ]</b>
-<!-- Line 1: AI Tools (Types once, NO looping, stays on screen) -->
+<!-- Line 1: Starts instantly, types for 2 seconds, then freezes permanently -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+ai_tools.log...+%5BChatGPT%2C+Gemini%2C+Websim.ai%2C+V0%5D" alt="Terminal Line 1" />
-<!-- Line 2: Web & Design (Waits for Line 1 to finish, types once, stays on screen) -->
+<!-- Line 2: Waits exactly 2.2 seconds for Line 1 to complete before it starts typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=2200&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+design_suite.log...+%5BFigma%2C+Canva%2C+GoogleSites%5D" alt="Terminal Line 2" />
-<!-- Line 3: Databases (Waits for Line 2 to finish, types once, stays on screen) -->
+<!-- Line 3: Waits exactly 4.4 seconds for both Line 1 and Line 2 to complete before it starts typing -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=4400&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+database.log...+%5BMySQL%2C+Sheets%2C+Excel%5D" alt="Terminal Line 3" />
 </pre>
       <!-- Animated Language Badges Array -->
