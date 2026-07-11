@@ -48,9 +48,10 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 
 ---
 
-### 🎨 Visual & Contribution Flair
+### 🎨 Visual & Dynamic Flair
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Building+with+AI+Systems...;UI%2FUX+Architect;Welcome+to+my+Terminal" alt="Typing SVG" />
+  <!-- This creates a premium, real-time typing animation for your core focus -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Building+with+AI+Systems...;UI%2FUX+Architect;Welcome+to+my+Terminal" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -61,7 +62,7 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 
 ### 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://freecodecamp.org" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://freecodecamp.org" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a>
 </p>
