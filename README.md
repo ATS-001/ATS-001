@@ -52,7 +52,7 @@
 
 ---
 
-### 📊 Dynamic Metrics Dashboard
+# Dashboard
 Here is a live look at my ecosystem, automatically pulled directly from my GitHub metrics:
 
 <p align="center">
@@ -62,7 +62,7 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 ---
-## 🎨 Visual & Dynamic Flair
+# Visuals
 
 <p align="center">
   <!-- Dynamic Terminal SVG Banner -->
@@ -87,7 +87,7 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 
 --- 
 
-### 🔗 Connect With Me
+# Connect
 <p align="left">
   <!-- Professional & Development Platforms -->
   <a href="https://www.linkedin.com/in/aaronts127pdz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
