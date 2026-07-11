@@ -63,10 +63,9 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 <p align="center">
-  <!-- Active, Live Alternative Profile Counter -->
+  <!-- Whitelisted Live Alternative Profile Counter -->
   <img src="https://komarev.com/ghpvc/?username=ATS-001&color=7aa2f7&style=flat-square" alt="Visitor Count" />
 </p>
-
 --- 
 
 ### 🔗 Connect With Me
