@@ -63,8 +63,8 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 <p align="center">
-  <!-- Real-time Country Analytics Flags Badge Array -->
-  <img src="https://api.nodsub.com/visitor-badge/flags?username=ATS-001&theme=tokyonight&columns=4" alt="Global Flag Core Tracking" />
+  <!-- Universally Whitelisted Real-Time Country Visitor Tracker -->
+  <img src="https://s11.flagcounter.com/map/3n_k/bg_1A1B26/txt_A9B1D6/border_1A1B26/columns=4/maxflags=12/viewers=0/labels=1/pageviews=1/flags=0/" alt="Global Visitor Analytics" />
 </p>
 
 --- 
