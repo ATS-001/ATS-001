@@ -72,6 +72,10 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
   <img src="https://streak-stats.demolab.com/?user=ATS-001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ATS-001&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="GitHub Trophies" />
+</p>
+
 --- 
 
 ### 🔗 Connect With Me
