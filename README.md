@@ -63,7 +63,16 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 
 ### 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://freecodecamp.org" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a>
+  <!-- Professional & Development Platforms -->
+  <a href="https://www.linkedin.com/in/aaronts127pdz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/ATS-001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.freecodecamp.org/Atspdz-001" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a>
+  <a href="https://codepen.io/prime-dot-zip" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+</p>
+
+<p align="left">
+  <!-- Content & Creative Platforms -->
+  <a href="https://www.youtube.com/@ats_pdz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/ATSpdz" target="_blank"><img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://scratch.mit.edu/users/APPU02112007/" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" /></a>
 </p>
