@@ -56,16 +56,16 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 
 ---
 
-### 🎨 Visual & Dynamic Flair
+## 🎨 Visual & Dynamic Flair
 <p align="center">
-  <!-- This creates a premium, real-time typing animation for your core focus -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Building+with+AI+Systems...;UI%2FUX+Architect;Welcome+to+my+Terminal" alt="Typing SVG" />
+  <!-- Interactive animated terminal text injector -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%3E+_EXECUTE_AI_SYSTEMS...;%3E+_INTERFACE_DESIGN;%3E+_INITIALIZE_TERMINAL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ATS-001&label=Profile%20Views&color=0078d4&style=flat-square" alt="Profile Views" />
+  <!-- Real-time Country Visitor Track Map -->
+  <img src="https://counter.asg0.de/github/ATS-001?style=map&theme=tokyonight" alt="Visitor Country Map" width="550px" />
 </p>
-
 ---
 
 ### 🔗 Connect With Me
