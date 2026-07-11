@@ -1,22 +1,19 @@
 name: Generate Profile Visuals
 
 on:
-  schedule: # Runs automatically every 24 hours
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allows you to manually trigger it
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # 1. Generate 3D Grid Map
-      - name: Generate 3D Contribution Graph
-        uses: yoshi3861/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+      # 1. Checkout your code so the action can save images here
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-      # 2. Generate Snake Game SVG
+      # 2. Generate the Snake Game SVG
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
@@ -25,7 +22,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Deploy assets cleanly back into your repository
+      # 3. Deploy assets cleanly back into your repository's output branch
       - name: Push Updates to Repo
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
