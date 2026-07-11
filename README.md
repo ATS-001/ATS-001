@@ -16,7 +16,7 @@
  ▀         ▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀ 
 </pre>
     </td>
-    <!-- Right Column: Live Typing Terminal Script -->
+    <!-- Right Column: Line-by-Line Appending Terminal Shell -->
     <td valign="top" style="padding-left: 25px; min-width: 460px;">
 <pre>
 <b>aaron</b>@<b>VAST-BTech</b>
@@ -25,17 +25,21 @@
 <b>Host</b>: Vidya Academy of Science & Technology
 <b>Course</b>: BTech Computer Science & Engineering
 
-<b>[ Live Environment Shell ]</b>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&lines=%3E_initialize+core_stack.sh...;%3E_loading+AI_Tools+%5BChatGPT%2C+Gemini%2C+Websim%5D;%3E_loading+Design_Suite+%5BFigma%2C+Canva%2C+Sites%5D;%3E_loading+Databases+%5BMySQL%2C+Sheets%2C+Excel%5D" alt="Terminal Command Execution" />
+<b>[ System Stack Modules ]</b>
+<!-- Line 1: AI Tools -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&pause=5000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&lines=%3E_cat+ai_tools.log...;%3E_cat+ai_tools.log...%5BChatGPT%2C+Gemini%2C+Websim.ai%2C+V0%5D" alt="Terminal Line 1" /><br/>
+<!-- Line 2: Web & Design -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=1500&duration=2000&pause=5000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&lines=%3E_cat+design_suite.log...;%3E_cat+design_suite.log...%5BFigma%2C+Canva%2C+GoogleSites%5D" alt="Terminal Line 2" /><br/>
+<!-- Line 3: Databases -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=3000&duration=2000&pause=5000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&lines=%3E_cat+database.log...;%3E_cat+database.log...%5BMySQL%2C+Sheets%2C+Excel%5D" alt="Terminal Line 3" />
 </pre>
-      <!-- Animated Programming Language Icons Area -->
+      <!-- Animated Devicon Language Badges Array -->
       <div style="margin-top: -10px; padding-left: 5px;">
         <img src="https://skillicons.dev/icons?i=ts,js,python,c,cs,html,css&theme=dark" alt="My Programming Languages" />
       </div>
     </td>
   </tr>
 </table>
-
 ---
 
 ### 📊 Dynamic Metrics Dashboard
