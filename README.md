@@ -50,16 +50,18 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 
 ### 🎨 Visual & Contribution Flair
 <p align="center">
-  <b>🐍 Contribution Grid Snake Game</b><br/>
-  <!-- Swapped to the dark-theme optimized snake image -->
-  <img src="https://raw.githubusercontent.com/ATS-001/ATS-001/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" width="85%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Building+with+AI+Systems...;UI%2FUX+Architect;Welcome+to+my+Terminal" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ATS-001&label=Profile%20Views&color=0078d4&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://freecodecamp.org" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://vercel.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio_Site-000000?style=for-for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+  <a href="https://freecodecamp.org" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" /></a>
 </p>
