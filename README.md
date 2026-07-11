@@ -55,25 +55,23 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 ---
-
 ## 🎨 Visual & Dynamic Flair
 <p align="center">
   <!-- Interactive animated terminal text injector -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%3E+_EXECUTE_AI_SYSTEMS...;%3E+_INTERFACE_DESIGN;%3E+_INITIALIZE_TERMINAL" alt="Typing SVG" />
 </p>
 
-```html
 <details>
-  <summary><b>🛰️ [ View Live System Traffic Logs ]</b></summary>
-  <br/>
-  <p align="center">
-    <a href="[https://github.com/ATS-001/ATS-001](https://github.com/ATS-001/ATS-001)">
-      <img src="[https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FATS-001%2FATS-001&count_bg=%237AA2F7&title_bg=%231A1B26&title=Global+System+Traffic&edge_flat=true](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FATS-001%2FATS-001&count_bg=%237AA2F7&title_bg=%231A1B26&title=Global+System+Traffic&edge_flat=true)" alt="Global Traffic Counter" />
-    </a>
-  </p>
-</details>
-```
+<summary><b>🛰️ [ View Live System Traffic Logs ]</b></summary>
+<br/>
 
+<p align="center">
+  <a href="https://github.com/ATS-001/ATS-001">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FATS-001%2FATS-001&count_bg=%237AA2F7&title_bg=%231A1B26&title=Global+System+Traffic&edge_flat=true" alt="Global Traffic Counter" />
+  </a>
+</p>
+
+</details>
 --- 
 
 ### 🔗 Connect With Me
