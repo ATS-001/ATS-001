@@ -1,7 +1,7 @@
 <table>
   <tr>
-    <!-- Left Column: Custom A.T.S ASCII Logo -->
-    <td valign="top">
+    <!-- Left Column: Custom A.T.S ASCII Logo + System Views Counter -->
+    <td valign="top" align="center">
 <pre>
  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄▄▄▄▄▄▄▄▄▄▄ 
 ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
@@ -15,6 +15,9 @@
 ▐░▌       ▐░▌     ▐░▌     ▐░░░░░░░░░░░▌
  ▀         ▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀ 
 </pre>
+      <div style="margin-top: -5px;">
+        <img src="https://komarev.com/ghpvc/?username=ATS-001&label=System%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
+      </div>
     </td>
     <!-- Right Column: True Sequential Boot-Up Terminal Shell -->
     <td valign="top" style="padding-left: 25px; min-width: 460px;">
@@ -26,16 +29,16 @@
 <b>Course</b>: BTech Computer Science & Engineering
 
 <b>[ System Stack Modules ]</b>
-<!-- Line 1: Starts instantly, types for 2 seconds, then freezes permanently -->
+<!-- Line 1: AI Tools -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+ai_tools.log...+%5BChatGPT%2C+Gemini%2C+Websim.ai%2C+V0%5D" alt="Terminal Line 1" />
-<!-- Line 2: Waits exactly 2.2 seconds for Line 1 to complete before it starts typing -->
+<!-- Line 2: Web & Design -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=2200&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+design_suite.log...+%5BFigma%2C+Canva%2C+GoogleSites%5D" alt="Terminal Line 2" />
-<!-- Line 3: Waits exactly 4.4 seconds for both Line 1 and Line 2 to complete before it starts typing -->
+<!-- Line 3: Databases -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=4400&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+database.log...+%5BMySQL%2C+Sheets%2C+Excel%5D" alt="Terminal Line 3" />
 </pre>
-      <!-- Animated Language Badges Array -->
+      <!-- Animated Language Badges Array (Added java) -->
       <div style="margin-top: 10px; padding-left: 5px;">
-        <img src="https://skillicons.dev/icons?i=ts,js,python,c,cs,html,css&theme=dark" alt="My Programming Languages" />
+        <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cs,html,css&theme=dark" alt="My Programming Languages" />
       </div>
     </td>
   </tr>
