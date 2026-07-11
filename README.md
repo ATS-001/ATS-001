@@ -67,6 +67,8 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
   <img src="https://clustrmaps.com/map_v2.png?d=3n_k6W07RzZ2pMvXN8u1Z2Yt3R4w5q6e7r8t9u0i&cl=7aa2f7&w=500&t=tt" alt="Global Visitor Grid" />
 </p>
 
+--- 
+
 ### 🔗 Connect With Me
 <p align="left">
   <!-- Professional & Development Platforms -->
