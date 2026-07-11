@@ -49,6 +49,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### 📊 Dynamic Metrics Dashboard
