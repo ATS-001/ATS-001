@@ -53,7 +53,6 @@
 ---
 
 # Dashboard
-Here is a live look at my ecosystem, automatically pulled directly from my GitHub metrics:
 
 <p align="center">
   <!-- Replaced with specialized URL format to fix the dash rendering error -->
