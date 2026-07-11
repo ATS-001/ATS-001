@@ -66,6 +66,17 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
   <!-- Live Profile Activity & Traffic Graph Tracker -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATS-001&theme=tokyonight&area=true&category=commits" alt="Profile Activity Growth Graph" />
 </p>
+
+<p align="center">
+  <!-- Contribution Streak Counter -->
+  <img src="https://streak-stats.demolab.com/?user=ATS-001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- Compact Top Languages Donut Chart -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATS-001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 --- 
 
 ### 🔗 Connect With Me
