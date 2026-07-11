@@ -73,7 +73,9 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ATS-001&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="GitHub Trophies" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k7ceb7mtkczo54svicvoo5t2pa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k7ceb7mtkczo54svicvoo5t2pa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true">
+  </a>
 </p>
 
 --- 
