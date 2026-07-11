@@ -16,8 +16,8 @@
  ▀         ▀       ▀       ▀▀▀▀▀▀▀▀▀▀▀ 
 </pre>
     </td>
-    <!-- Right Column: System Bio Info & Animated Tech Stack Modules -->
-    <td valign="top" style="padding-left: 25px;">
+    <!-- Right Column: Live Typing Terminal Script -->
+    <td valign="top" style="padding-left: 25px; min-width: 460px;">
 <pre>
 <b>aaron</b>@<b>VAST-BTech</b>
 ----------------
@@ -25,9 +25,13 @@
 <b>Host</b>: Vidya Academy of Science & Technology
 <b>Course</b>: BTech Computer Science & Engineering
 
-<b>[ System Stack Modules ]</b>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=800&color=7AA2F7&text=Loading...&center=false&vCenter=true&width=450&lines=%3E_cat+programming.log+%5BPython%2C+C%2C+C%23%2C+JS%2C+HTML%2FCSS%5D;%3E_cat+ai_tools.log+%5BChatGPT%2C+Gemini%2C+Websim.ai%2C+V0%5D;%3E_cat+web_design.log+%5BFigma%2C+Canva%2C+GoogleSites%5D;%3E_cat+database.log+%5BMySQL%2C+Excel%2C+Sheets%5D;%3E_cat+professional_skills.log+%5BPromptEng%2C+UI_Planning%5D" alt="Typing Skills Carousel" />
+<b>[ Live Environment Shell ]</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&lines=%3E_initialize+core_stack.sh...;%3E_loading+AI_Tools+%5BChatGPT%2C+Gemini%2C+Websim%5D;%3E_loading+Design_Suite+%5BFigma%2C+Canva%2C+Sites%5D;%3E_loading+Databases+%5BMySQL%2C+Sheets%2C+Excel%5D" alt="Terminal Command Execution" />
 </pre>
+      <!-- Animated Programming Language Icons Area -->
+      <div style="margin-top: -10px; padding-left: 5px;">
+        <img src="https://skillicons.dev/icons?i=ts,js,python,c,cs,html,css&theme=dark" alt="My Programming Languages" />
+      </div>
     </td>
   </tr>
 </table>
