@@ -74,5 +74,5 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
   <!-- Content & Creative Platforms -->
   <a href="https://www.youtube.com/@ats_pdz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://x.com/ATSpdz" target="_blank"><img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://scratch.mit.edu/users/APPU02112007/" target="_blank"><img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" /></a>
+  <a href="https://scratch.mit.edu/users/APPU02112007/" target="_blank"><img src="https://img.shields.io/badge/Scratch-f77d02?style=for-the-badge&logo=scratch&logoColor=white" alt="Scratch" /></a>
 </p>
