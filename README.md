@@ -42,8 +42,9 @@
 Here is a live look at my ecosystem, automatically pulled directly from my GitHub metrics:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ATS-001&show_icons=true&theme=tokyonight&count_private=true" alt="Aaron's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATS-001&layout=compact&theme=tokyonight" alt="Aaron's Most Used Languages" height="195px" />
+  <!-- Replaced with specialized URL format to fix the dash rendering error -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ATS-001&show_icons=true&theme=tokyonight&count_private=true" alt="Aaron's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ATS-001&layout=compact&theme=tokyonight" alt="Aaron's Most Used Languages" height="195px" />
 </p>
 
 ---
