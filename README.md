@@ -63,8 +63,10 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 <p align="center">
-  <!-- Universally Whitelisted Real-Time Country Visitor Tracker -->
-  <img src="https://s11.flagcounter.com/map/3n_k/bg_1A1B26/txt_A9B1D6/border_1A1B26/columns=4/maxflags=12/viewers=0/labels=1/pageviews=1/flags=0/" alt="Global Visitor Analytics" />
+  <!-- GitHub-Safe Native Views & Traffic Core Analytics -->
+  <a href="https://github.com/ATS-001/ATS-001">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FATS-001%2FATS-001&count_bg=%237AA2F7&title_bg=%231A1B26&title=Global+System+Traffic&edge_flat=true" alt="Global Traffic Counter" />
+  </a>
 </p>
 
 --- 
