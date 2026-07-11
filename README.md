@@ -63,8 +63,8 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 <p align="center">
-  <!-- Whitelisted Live Alternative Profile Counter -->
-  <img src="https://komarev.com/ghpvc/?username=ATS-001&color=7aa2f7&style=flat-square" alt="Visitor Count" />
+  <!-- Live Profile Activity & Traffic Graph Tracker -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ATS-001&theme=tokyonight&area=true&category=commits" alt="Profile Activity Growth Graph" />
 </p>
 --- 
 
