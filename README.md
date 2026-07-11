@@ -63,8 +63,8 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 </p>
 
 <p align="center">
-  <!-- Whitelisted Visitor Counter Badge -->
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ATS-001.ATS-001&left_color=%231A1B26&right_color=%237AA2F7" alt="Visitor Count" />
+  <!-- Active, Live Alternative Profile Counter -->
+  <img src="https://komarev.com/ghpvc/?username=ATS-001&color=7aa2f7&style=flat-square" alt="Visitor Count" />
 </p>
 
 --- 
