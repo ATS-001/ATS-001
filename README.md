@@ -58,13 +58,13 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 ## 🎨 Visual & Dynamic Flair
 
 <p align="center">
-  <!-- Dynamic Terminal SVG Banner Anim -->
+  <!-- Dynamic Terminal SVG Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%3E+_EXECUTE_AI_SYSTEMS...;%3E+_INTERFACE_DESIGN;%3E+_INITIALIZE_TERMINAL" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <!-- Whitelisted Live International Visitor Metric Tracker Grid -->
-  <img src="https://github-visitor-counter-tau.vercel.app/api?username=ATS-001&theme=dark&columns=4&max=12" alt="Global Flag Counters Tracker" />
+  <!-- Whitelisted Visitor Counter Badge -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ATS-001.ATS-001&left_color=%231A1B26&right_color=%237AA2F7" alt="Visitor Count" />
 </p>
 
 --- 
