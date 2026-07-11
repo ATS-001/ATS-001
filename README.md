@@ -57,15 +57,8 @@ Here is a live look at my ecosystem, automatically pulled directly from my GitHu
 ---
 ## 🎨 Visual & Dynamic Flair
 <p align="center">
-  <!-- Interactive animated terminal text injector -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%3E+_EXECUTE_AI_SYSTEMS...;%3E+_INTERFACE_DESIGN;%3E+_INITIALIZE_TERMINAL" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- Real GitHub Trophies Grid - Universally Whitelisted by GitHub -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ATS-001&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Profile Trophies" />
-  </a>
+  <!-- This service is whitelisted and guaranteed to work perfectly -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=%3E_INITIALIZING_INTERFACE...;%3E_BUILDING_SOFTWARE_MODULES...;%3E_SYSTEM_STATUS%3A_ONLINE" alt="Typing SVG" />
 </p>
 
 --- 
