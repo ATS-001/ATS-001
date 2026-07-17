@@ -66,7 +66,7 @@
 
 <p align="center">
   <!-- Dynamic Terminal SVG Banner -->
-  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&letterSpacing=0.2rem&pause=1000&multiline=true&width=500&height=100&lines=Welcome+to+my+Github+Profile.;I+am+Aaron" alt="Typing SVG" />
+  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&letterSpacing=0.2rem&pause=1000&multiline=true&width=500&height=100&lines=Welcome+to+my+Github+Profile.;I+am+Aaron" alt="Typing SVG" />
 </p>
 <p></p>
 <p align="center">
