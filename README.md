@@ -22,7 +22,7 @@
   </a>
 </p>
       <div style="margin-top: -5px;">
-        <img src="https://img.shields.io/github/followers/ATS-001?label=Followers&style=flat-square" alt="Profile Followers"/>
+        <img src="https://img.shields.io/github/followers/ATS-001?label=Followers&color=7AA2F7&style=flat-square" alt="Profile Followers"/>
         <img src="https://komarev.com/ghpvc/?username=ATS-001&label=System%20Views&color=7AA2F7&style=flat-square" alt="Profile Views" />
       </div>
     </td>
