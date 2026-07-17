@@ -44,7 +44,7 @@
 </pre>
       <!-- Animated Language Badges Array (Added java) -->
       <div style="margin-top: 10px; padding-left: 5px;">
-        <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cs,html,css&theme=dark" alt="My Programming Languages" />
+        <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cs,html,css,vercel,windows,linux,github,streamlit,mysql,react&theme=dark" alt="My Programming Languages" />
       </div>
     </td>
   </tr>
