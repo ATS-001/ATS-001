@@ -43,7 +43,7 @@
 <!-- Line 3: Databases -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&startDelay=4400&duration=2000&color=7AA2F7&background=00000000&center=false&vCenter=true&width=460&height=22&repeat=false&lines=%3E_cat+database.log...+%5BMySQL%2C+Sheets%2C+Excel%5D" alt="Terminal Line 3" />
 </pre>
-      <!-- Animated Language Badges Array (Added java) -->
+      <!-- Animated Language Badges Array -->
       <div style="margin-top: 10px; padding-left: 5px;">
         <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,cs,html,css,vercel,windows,linux,github,vscode,mysql,react&theme=dark" alt="My Programming Languages" />
       </div>
@@ -56,9 +56,10 @@
 # Dashboard
 
 <p align="center">
-  <!-- Replaced with specialized URL format to fix the dash rendering error -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ATS-001&show_icons=true&theme=tokyonight&count_private=true" alt="Aaron's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ATS-001&layout=compact&theme=tokyonight" alt="Aaron's Most Used Languages" height="195px" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ATS-001&show_icons=true&theme=tokyonight&count_private=true" alt="Aaron's GitHub Stats" height="195px" />
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ATS-001&layout=compact&theme=tokyonight" alt="Aaron's Most Used Languages" height="195px" />
 </p>
 
 ---
@@ -66,7 +67,7 @@
 
 <p align="center">
   <!-- Dynamic Terminal SVG Banner -->
-  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&letterSpacing=0.2rem&pause=1000&multiline=true&width=500&height=100&lines=Welcome+to+my+Github+Profile.;I+am+Aaron" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&letterSpacing=0.2rem&pause=1000&multiline=true&width=500&height=100&lines=Welcome+to+my+Github+Profile.;I+am+Aaron" alt="Typing SVG" />
 </p>
 <p></p>
 <p align="center">
@@ -76,12 +77,12 @@
 
 <p align="center">
   <!-- Contribution Streak Counter -->
-  <img src="https://streak-stats.demolab.com/?user=ATS-001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ATS-001&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31k7ceb7mtkczo54svicvoo5t2pa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k7ceb7mtkczo54svicvoo5t2pa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31k7ceb7mtkczo54svicvoo5t2pa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true" alt="Spotify Profile Card">
   </a>
 </p>
 
